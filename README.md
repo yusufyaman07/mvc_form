@@ -1,12 +1,12 @@
-# MVC :
+# MVC_FORM :
 
-- MVC react-native,react,backend de kullanılan bir yazılım mimarisidir.
-- Proje yönetiminde projenin bakım,onarım ve yönetim kısmında kolaylık sağlayan bir yöntemdir.
+Greetings, in this project I created with MVC architecture, there is a page with details of adding forms and added notes.
 
-* Bu yöntemde bir komponent'i "View","Controler" ve "Model" olmak üzere üç'e ayırarak yönetim kolaylığı sağlanır.
-* View dosyası jsx uzantılı olup kullanıcının göreceği kısmı tasarladığımız kodları içerir.(Kullanıcı etkileşimi olmayan dosyalar)
-* Controler dosyasıda jsx uzantılı olup kullanıcı etkileşimli işlemleri bulunduran kodları içerir.(Butona tıklanınca şu olsun vs.)
-* Model dosyası içerisinde sadece js kodları olduğundan dolayı .js uzantılı olan bu dosyada interaktif olaylar (api isteği vs.) kodları bu dosyada bulunur.
+# Features :
 
-- Bu mimaride App.jsx'de Controler dosyası render edilir.
-# mvc_form
+- Form adding and listing features built with MVC architecture
+- A responsive and modern design with Bootstrap
+- Exchanging data via fake API using JSON Server
+
+# Preview :
+![mvc_form](https://github.com/yusufyaman07/mvc_form/assets/148998418/2bd6dc31-591b-481a-8d28-b127cb3084a7)
