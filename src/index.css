@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Active class visibility: hidden; hiding unwanted by giving */
+.active {
+  visibility: hidden;
+}
+
+body {
+  background-color: #1c1c1c;
+}
