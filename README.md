@@ -1,8 +1,8 @@
-# MVC_FORM :
+# MVC_FORM 
 
 Greetings, in this project I created with MVC architecture, there is a page with details of adding forms and added notes.
 
-# Features :
+# Features 
 
 - Form adding and listing features built with MVC architecture
 - A responsive and modern design with Bootstrap
